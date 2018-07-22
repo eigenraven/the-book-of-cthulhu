@@ -1,0 +1,223 @@
+= The small book of the Great Cthulhu
+
+Translation by: Jakub 'kubasz' Szewczyk
+
+Original: authors anonymous, available here: http://21wdw-2014.staszic.waw.pl/ktulu/
+
+== Introduction
+
+The game of Cthulhu has evolved over many years, getting a lot of variants
+along the way. This book presents a variant that's close to the original (4
+factions) with some interesting modifications (additional factions), giving
+them as an optional expansion. It's hard to say, which variant of the rules is
+the best, in different groups different parts of the game are prioritised,
+players have their own different favourite strategies. But a game with
+imperfect rules is almost always much better than a long discussion about the
+rules, hence the choice of the ruleset should be Manitou's, not an object of
+discussion of all the players.
+
+Cthulhu is a social game based on Mafia (aka Werewolf), but it significantly
+expands upon its roots. Each of the players is in the role of a member of the
+Boom-Boom City Council. There are different factions in the council, they have
+contradicting goals and each player tries to lead towards their faction's
+victory. The game is orchestrated by the Manitou, who does not participate in
+the game itself, but can resolve conflicts regarding the rules and ensures the
+game is going smoothly.
+
+In the background of the game is the following story of the City, which may be
+presented by Manitou. _The optional elements regarding added fractions are
+italicised._
+
+=== Backstory
+
+From time immemorial, a tribe of Native Americans have worshipped a statuette
+of the god Cthulhu, made from rare and precious metals. But then, Europeans
+came to America, killed most of the natives and took the statuette from them.
+In the place where the natives previously lived, they started Boom-Boom City.
+The statuette was a very popular tourist attraction, bringing a lot of
+attention towards the city. This inspired a group of bandits to come to the
+city and steal the statuette. But in reality, the statuette is an alien
+transmitter from the spaceship of Ufocs, which crashed in North America a long
+time ago.
+
+_Lucky Luke arrives in Boom-Boom City, and sees that the conflict about the
+statuette is very complex and cannot be simply resolved. Therefore, he decides
+to find the statuette and donate it charitatively. He thinks this is the only
+way to resolve the increasing tension in the city. There is another group
+living in the city, usually ignored by the others - the enslaved Afroamericans.
+They plan on escaping the white people's oppression, but to do so they must get
+enough money... That's enough of what's earthly, but this is not the end of the
+story. Not many know that Boom-Boom City is closely observed by gods. In
+ancient times, a group of gods, called the Bungler Gods (called like this not
+only for this reason) allowed for a small amount of a supernatural substance to
+appear on Earth, and then all trace of it was lost. It's not necessary to
+explain how the existance of this substance in the world of humans and Ufocs
+violates the pride of the gods. The Gods coincidentally just localised the
+substance in Boom-Boom City, on one of the planets orbiting an insignificant
+star. At least it can be destroyed, before it disappears again somewhere in the
+spacetime. Can the Bungler Gods regain their pride by finishing this task?_
+
+== Basic rules
+
+The game starts on the zeroth night, on which the statuette was stolen.
+There are three or four (_or up to seven_) factions in the game, depending
+on the number of players. They are the: citizens, bandits, natives,
+potentially Ufocs, _even more potentially Lucky Luke, slaves and Bungler Gods_.
+The goal of the citizens is to get the statuette back. Bandits want to
+cruise back to Europe on a ship that will be waiting for them,
+the natives want to kill all the members of the other factions. The Ufocs
+want to use the statuette to transmit a signal to their original planet.
+_Lucky Luke wants to leave with the statuette by sunset, slaves want to
+scratch off enough gold from the statuette to be able to escape. Bungler
+Gods want to completely destroy the statuette._
+
+The game has a day-night cycle. During the day, the council discusses who to
+search, and potentially hang (the decisions are made by voting). There may also
+be duels. During the night, specific people and groups act in secret - everyone
+except the involved has to sit with their eyes closed, and Manitou conducts the
+game, by calling consecutive characters or groups. Players can be eliminated
+from the game (killed _or escaped_), these players reveal their identity card
+and don't take part in the further game, but are welcome to observe. Apart from
+this situation and specific abilities of some characters, it is not allowed to
+show your identity card. Illegaly showing an identity card causes immediate
+death by a falling piano (it's the same for any other illegal moves).
+
+== Specific goals of the factions
+
+=== The City
+
+Wins, when the statuette is discovered during the day - through searches,
+checking the bodies of players who lost in duels and killed by the shamaness
+and in the case a citizen gets the statuette and survives until the morning.
+
+=== Bandits
+
+Win when they can sail away with the statuette. Their ship is only ready
+to sail on the third night, but they can only sail away in the morning, which
+means that they must keep the statuette through all other factions' phases
+during the night.
+
+=== Natives
+
+The natives want to kill all other players, they win when only natives are
+left alive in the game. If the last non-native player having a statuette
+is poisoned by the shamaness and thus dies during the day, the city wins
+(punishment for natives' stupidity).
+
+=== Ufocs
+
+Win if they are able to send a signal to their home planet three times.
+In order to transmit, they must have the statuette at the end of their phase.
+When they succeed, their ship flies to Earth and takes them and the statuette.
+
+=== Lucky Luke
+
+Wins if he can ride away with the statuette at sunset (just before the night).
+
+=== Slaves
+
+Win if the last slave escapes (even if only natives are left when this happens).
+A slave can run away the night following when there was gold scratched
+off the statuette as many times as the number of since then killed slaves plus one. (1 + SlavesAlive(now) - SlavesAlive(last escape))
+
+=== Bungler Gods
+
+Win when they destroy the statuette by shooting it three times.
+
+=== General note
+
+Only one faction can win in this game, in case of a dispute the Manitou decides.
+
+== Beginning of the game
+
+In the beginning Manitou distributes shuffled identity cards among all the
+players, reminds them of the rules and begins the game. First is the zeroth
+night, when all the non-city factions get to know each other and very few
+characters actually have actions. Then the first day is announced and the
+players (optionally) introduce themselves - something like "I'm Bob, a smith"
+rather than "My name is Robert Smith, my card is a sheriff". The rest of the
+game follows.
+
+== Specific day rules
+
+During the day most of the time mostly ungoverned discussion takes place.
+
+=== Duels
+
+A more formal event that can happen is a duel: any player can challenge any
+other player at any moment of the day. During a given day only two duels can
+take place (it doesn't matter how many were refused). While the sheriff is
+alive, players are allowed to refuse duels. If the sheriff is not alive or the
+duel was accepted by the other player, the duelling players stand in front of
+each other. First the attacker says their speech, explaining why they should
+win. Then, the attacked has a chance to say their defence speech, no one else
+has the right to speak during the duel! When the speeches are done, the duel
+begins. Everyone except the duelling players votes for either one of the
+players, or they bystand. If everyone bystands, both duelling players live. If
+there is at least one vote, the player with the majority of the votes for them
+dies. If there is a draw, both players die. There are characters, which have
+special abilities during the duels.
+
+=== Searches
+
+At the end of the day, the council can choose to search one or more players
+to check if they have the statuette. Every player has as many votes, as
+many players can be searched in total by the rules, and the players with the
+most votes are searched. In case of a draw, a second round of voting is done
+by the Manitou, and in case the draw cannot be resolved (by Manitou's judgement)
+the players with the drawing votes and all players with less votes are excluded
+from the searches. After the searches, Manitou says whether any of the searched
+players had the statuette. If they had it, the city wins. Otherwise, the council
+votes whether they want to hang one of the searched players. If they decide yes (without a draw),
+another vote is conducted to determine which of the players to hang according
+to the same rules as before, but in case of a draw no one is hanged.
+The players are allowed to bystand and not vote *only* in the duels.
+
+== Specific night rules
+
+During the night, Manitou will wake specific factions or characters. The
+players must remember to remain silent during the night. Usually the sleeping
+cover their faces with their hands to make it clear who's sleeping and who's
+not. Each of the waked players has to follow Manitou's instructions and then go
+back to sleep. It's possible that a person is not active (e.g. was drunk or
+locked up by a sheriff), then don't wake up during that night at all. If that
+player has the statuette, the statuette cannot be taken from them and they
+cannot pass it to anyone.
+
+The first to act during the night is _Lucky Luke, then_ all the "nightly"
+citizens, following that the bandits, natives, Ufocs, _slaves, and Bungler
+Gods_.
+
+Each faction apart from the city acts as a whole, the decisions are made by the
+majority and if that can't decide, Manitou will ask the highest ranking member
+of the faction for the final choice. If the faction has the statuette, then the
+highest ranking member decides who will own it. _If Lucky Luke has the
+statuette in the beginning of his phase, he wins, otherwise he searches a
+chosen person._ Bandits, if they don't have the statuette, can choose a person
+to steal from - if they have the statuette, it goes to the bandits. The natives
+kill a chosen person every night, if the killed person has the statuette, the
+natives take it. If they have (or just got through murder) the statuette, they
+get to kill another person that night. If Ufocs are in the game, search one
+person every night without the ability to kill them. _If a slave wants to
+escape, then they do it in the beginning of the slaves' turn (one is chosen by
+the group), then the slaves can try stealing the statuette from one person. If
+they have the statuette at the end of their turn, they scratch gold off it. The
+Bungler Gods shoot at someone every night. With a 75% probability they succeed,
+then if the person has the statuette the Gods can (but don't have to) steal it.
+If the shot is not successful, the target dies.
+
+== General rules
+
+== Character descriptions
+
+<<<
+
+== Reference material for the Manitou
+
+=== Zeroth night actions in order
+
+=== Day actions
+
+=== Night actions
+
+=== Suggested faction distributions for basic factions
