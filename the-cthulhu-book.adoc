@@ -264,15 +264,91 @@ both of these cards if there are not enough players.
 
 === Bandits
 
+* Godfather - highest ranking bandit, owns the statuette in the beginning
+of the game.
+* Avenger - once during the game can kill a chosen person.
+* Thief - once a game can try to steal the statuette, chooses a person
+and if they have it, the thief steals it from them.
+* Bad Gunman - after they lose in a duel, Manitou instead says that
+they are a gunman (doesn't say which one) and that they win.
+When two gunmen duel, it's as if neither of them were one.
+* Blackmailer - during the 0th night chooses a person to blackmail.
+The blackmailee cannot act against (speak, vote) the blackmailer
+during the game. Look: Seducer
+* Card shark - once a game can choose a person to play with.
+That person won't wake up that night, but can be searched, killed, etc.
+Also, if the other person has the statuette, the shark wins it in cards.
+* Bandit - has no special abilities.
+
 === Natives
+
+* Chieftain - highest ranking Native American.
+* Shaman - once a game can go into a trans and get to know a picked
+player's identity card
+* Shamaness - once a game can poison someone. The poisoned person
+will die the next day before the votes for searching players,
+the specific moment can be chosen by the Manitou. The poisoned player
+suddenly becomes green on their face and dies.
+* Lonely Coyote - if they're the only active native, kills an additional
+person a night.
+* Warrior - once a game can kill a chosen player.
+* Blazing Craze - if the natives just got the statuette this night, gets
+a kill.
+* Binocular Eye - once a game can discover the current location of the
+statuette.
+* Silent Foot - if they have the statuette, they can silently give
+it to another person (that person won't know they have it).
+If they don't lose the statuette until the next natives' move, Silent
+Foot can get it back.
+* Native American - has no special abilities.
 
 === Ufocs
 
+* The Great Ufoc - is the highest ranking Ufoc.
+* Green Tentacle - once a game can kill a chosen player.
+* Detector - every night picks a person to start detecting.
+If that person has the statuette, detector gets to know that.
+Otherwise, they get to know whether the statuette is to the right or left
+of that person (in which arc between that person and the detector)
+* Mind Eater - every night gets to know a player's identity card.
+* Crimson Sucker - once a game can try to steal the statuette.
+Chooses a person to suck to, and if they have it, the sucker steals it.
+* Ufoc - has no special abilities.
+
 === Lucky Luke
+
+It's a fraction-person:
+
+* Is a gunman.
+* Once a game can kill a chosen player.
+* Every night after their turn gets to know where the statuette is.
+* Once a game can declare to spy on someone, if during the day or night
+that person gets the statuette, Lucky Luke gets it instead.
 
 === Slaves
 
+* Kali - every night chooses their master and gets to know their card.
+Can also try to steal the statuette from their master twice a game.
+* Cleaner - every night cleans in RoundUp(LivingPlayers/10)+1 houses,
+chooses at most that many players and gets to know if any of them
+have the statuette (doesn't get to know who specifically).
+
 === Bungler Gods
+
+* Cashabara - The God of the Useless Proofs and Statements - every
+night tries to possess someone. Succeeds with 75% probability.
+The possessed person doesn't know about that, but if they get
+the statuette that night - Cashabara gets it instead.
+* Banner - The Goddess of Enforcing Financial Scams, Bureaucracy
+and Making Life Harder - every night picks a person and that person wakes
+up. They can cooperate - Banner gets to know their card and whether they
+or one of the two neighbours have the statuette. If they don't cooperate,
+they die.
+* The one whose name no one remembers - Doesn't rembember what he's the
+god of, some say he's the god of sclerosis - once a game can do
+an additional shot (also with 75% probability of success). When they have
+the statuette, they can gift it to a chosen person, Manitou tells that
+person and announces which fraction they were in.
 
 <<<
 
