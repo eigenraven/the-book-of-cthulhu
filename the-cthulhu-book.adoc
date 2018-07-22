@@ -209,7 +209,70 @@ If the shot is not successful, the target dies.
 
 == General rules
 
+* If the statuette would have to be passed to someone else during the day, the city wins - even if the city faction is dead.
+* During the night, the statuette always goes into the hands of the killer if the killed player was the previous owner.
+* Manitou always announces when the faction owning the statuette changes with the exception of Silent Foot's action.
+
 == Character descriptions
+
+=== The City
+
+* Sheriff - while they're alive, players can refuse to duel. Every night (0th too) the sheriff locks one person. If that player had the statuette,
+the sheriff owns the statuette. If they survive with it through the night, the city wins. The locked person won't wake up during the rest of the night
+and cannot be killed by any means (but can be checked)
+* Mayor - the mayor can show their card at any moment in the game. If they
+do it during hanging, the hanged person is pardoned.
+* Slut - acts only during the 0th night. Chooses one client, and gets to
+know the client's card and the client gets to know the slut.
+* Pastor - every night (also 0th) checks (pasteurises) one person,
+and gets to know their faction. The checked person doesn't get to know
+about this fact.
+* Good Gunman - in a duel, at the very end if the gunman loses the vote, 
+the gunman always wins and everyone knows that the person is a gunman, but
+not which of the gunmen. In case of two gunmen, the duel is according to 
+normal rules.
+* Drunkard - twice during the game can choose a person to drink with.
+That person won't be waking up that night, but they can be searched,
+killed and acted upon in any other way.
+* Security guard - every night chooses a person to protect. That
+person cannot be killed (but all other actions are allowed). The guard
+cannot guard themself, and must guard a different person every night.
+If they die during the night, the other person is no longer protected.
+* Tax collector - once in the game can get to know who owns the statuette.
+They don't get to know who has the statuette if Lucky Lucke owns it.
+* Doctor - once in the game can resurrect a just-killed person before
+their card is revealed. This applies to duels and players killed during the night (not hanged). The doctor acts secretly - the rest of players
+don't know who has this role.
+* Gambler - once during the game, during the 2nd night or later, can
+begin playing Russian Roulette. They point at a person - if they are not
+in the city, they die and gambler has another shot, otherwise the gambler
+dies. If the gambler gets the statuette, they pass it to the citizen they 
+point at last - and if the citizen keeps it until the end of night, the
+city wins.
+* Insurance agent - at any moment can reveal their identity.
+* Judge - once after a duel is resolved can reveal their identity and
+override the result of the votes - always has to pick someone to die,
+this also has higher priority than the gunman rule.
+* Seducer - during the 0th night chooses the person to seduce. That
+person cannot act in any way that may harm the seducer - can never
+say or vote to kill their seducer, must vote for them in duels and
+cannot say they've been seduced if it may harm the seducer, etc.
+* Drunk judge - Combines the functions of Drunkard and Judge, replaces
+both of these cards if there are not enough players.
+* Executioner - once during the game can kill a chosen person.
+* Good citizen - has no special abilities.
+
+=== Bandits
+
+=== Natives
+
+=== Ufocs
+
+=== Lucky Luke
+
+=== Slaves
+
+=== Bungler Gods
 
 <<<
 
