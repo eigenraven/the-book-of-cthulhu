@@ -1,4 +1,5 @@
 = The small book of the Great Cthulhu
+:toc: right
 
 Translation by: Jakub 'kubasz' Szewczyk
 
