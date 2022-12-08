@@ -1,7 +1,7 @@
 = The small book of the Great Cthulhu
 :toc: right
 
-Translation by: Jakub 'kubasz' Szewczyk
+Translation by: Raven Szewczyk
 
 Original: authors anonymous, available here: http://21wdw-2014.staszic.waw.pl/ktulu/
 
